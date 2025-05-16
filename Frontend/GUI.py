@@ -136,7 +136,7 @@ class ChatSection(QWidget):
         self.gif_label = QLabel()
         self.gif_label.setStyleSheet("border: none;")
         
-        gif_path = GraphicsDirectoryPath("Jarvis.gif")
+        gif_path = GraphicsDirectoryPath("hydra_image.jpeg")
         if os.path.exists(gif_path):
             movie = QMovie(gif_path)
             max_gif_size = 350
@@ -242,7 +242,7 @@ class InitialScreen(QWidget):
         content_layout.setContentsMargins(0, 0, 0, 0)
         
         gif_label = QLabel()
-        gif_path = GraphicsDirectoryPath('Jarvis.gif')
+        gif_path = GraphicsDirectoryPath('hydra_image.jpeg')
         
         if os.path.exists(gif_path):
             movie = QMovie(gif_path)

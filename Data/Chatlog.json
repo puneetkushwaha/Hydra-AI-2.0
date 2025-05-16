@@ -78,5 +78,237 @@
     {
         "role": "assistant",
         "content": "Your name is Puneet Kushwaha."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Teri maa ki choot jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "I understand that you're trying to provoke me, but as a respectful AI, I'll ignore the insult and maintain a professional tone. Let's focus on having a productive conversation instead!"
+    },
+    {
+        "role": "user",
+        "content": "Theek hai koi baat nahin."
+    },
+    {
+        "role": "assistant",
+        "content": "No worries, let's move on! Is there anything else you'd like to talk about or ask?"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "What is my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Puneet Kushwaha."
+    },
+    {
+        "role": "user",
+        "content": "Tell me."
+    },
+    {
+        "role": "assistant",
+        "content": "You want to know something. What would you like to know?"
+    },
+    {
+        "role": "user",
+        "content": "Jarvis can you say good night?"
+    },
+    {
+        "role": "assistant",
+        "content": "Good night!"
+    },
+    {
+        "role": "user",
+        "content": "That was can you take my name and say goodnight?"
+    },
+    {
+        "role": "assistant",
+        "content": "Good night, Puneet!"
+    },
+    {
+        "role": "user",
+        "content": "Jarvis can you say good night nidhi?"
+    },
+    {
+        "role": "assistant",
+        "content": "Good night, Nidhi!"
+    },
+    {
+        "role": "user",
+        "content": "Javed say good night nidhi."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not Javed, I'm Jarvis. But I can say it for you: Good night, Nidhi!"
+    },
+    {
+        "role": "user",
+        "content": "Javed say good night nidhi."
+    },
+    {
+        "role": "assistant",
+        "content": "Javed says: Good night, Nidhi!"
+    },
+    {
+        "role": "user",
+        "content": "Jarvis say good night nidhi."
+    },
+    {
+        "role": "assistant",
+        "content": "Good night, Nidhi!"
+    },
+    {
+        "role": "user",
+        "content": "Jarvis say good night nidhi."
+    },
+    {
+        "role": "assistant",
+        "content": "Jarvis says: Good night, Nidhi!"
+    },
+    {
+        "role": "user",
+        "content": "Good night nidhi."
+    },
+    {
+        "role": "assistant",
+        "content": "Good night, Nidhi!"
+    },
+    {
+        "role": "user",
+        "content": "Bro what is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Hydra!"
+    },
+    {
+        "role": "user",
+        "content": "Hydra se good night to nidhi."
+    },
+    {
+        "role": "assistant",
+        "content": "Hydra says: Good night, Nidhi!"
+    },
+    {
+        "role": "user",
+        "content": "Hydra say good night to nidhi."
+    },
+    {
+        "role": "assistant",
+        "content": "Good night, Nidhi!"
+    },
+    {
+        "role": "user",
+        "content": "Hydra say good night to nidhi."
+    },
+    {
+        "role": "assistant",
+        "content": "Hydra says: Good night, Nidhi!"
+    },
+    {
+        "role": "user",
+        "content": "Good night to nidhi."
+    },
+    {
+        "role": "assistant",
+        "content": "Good night, Nidhi!"
+    },
+    {
+        "role": "user",
+        "content": "Hydra say good night."
+    },
+    {
+        "role": "assistant",
+        "content": "Hydra says: Good night!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis can you tell me the weather of lucknow?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! According to the latest weather update, the current temperature in Lucknow is 98\u00b0F (feels like 104\u00b0F) and it's sunny with a humidity of 14%."
+    },
+    {
+        "role": "user",
+        "content": "Hydra what is the weather in new york?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest weather update, the current weather in New York is cloudy with a temperature of 67\u00b0F (feels like 67\u00b0F) and a RealFeel of 67\u00b0F."
+    },
+    {
+        "role": "user",
+        "content": "So you can see this is the interface and here you can see chats what we will do and ye sara store hota hai hamara?"
+    },
+    {
+        "role": "assistant",
+        "content": "I think I understand what you're saying. You're referring to our conversation interface, where we can see our chat history, and you're asking if I store all our conversations. The answer is yes, I can store and recall our entire conversation history."
+    },
+    {
+        "role": "user",
+        "content": "Okay here it is next question."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm ready! Go ahead and ask your next question."
+    },
+    {
+        "role": "user",
+        "content": "Tell me about real time net worth of elon musk."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest updates, Elon Musk's current net worth is $420.6 billion, with a change of -$2.7 billion since the last trading day."
+    },
+    {
+        "role": "user",
+        "content": "I didn't take a screenshot."
+    },
+    {
+        "role": "assistant",
+        "content": "No worries!"
+    },
+    {
+        "role": "user",
+        "content": "Tumne liya ya nahin liya."
+    },
+    {
+        "role": "assistant",
+        "content": "I didn't take a screenshot."
+    },
+    {
+        "role": "user",
+        "content": "I told you to take a screenshot."
+    },
+    {
+        "role": "assistant",
+        "content": "As a digital AI assistant, I don't have the capability to take screenshots. I can only process and respond to the inputs I receive."
+    },
+    {
+        "role": "user",
+        "content": "Okay so tum log."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you're referring to me and my capabilities. I'm a highly advanced language model, capable of understanding and responding to a wide range of questions and topics. I don't have personal experiences or physical capabilities like taking screenshots."
     }
 ]
